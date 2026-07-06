@@ -1,5 +1,7 @@
 // import { test,expect } from '@playwright/test'; //test is a variable created
-
+//WHY IS THE WHAT IS ALWAYS THEIR
+//AND WHAT DOES THE WHY MEANS IN EVERYTHING
+//AND HOW IMPACTS THE WHOLE SENTENCE
 // //test.only
 // //test.skip
 // test('Launching the url', async ({ page }) => {
